@@ -47,7 +47,7 @@ Desarrollado para uso interno y distribución pública del Instituto del Aliment
 
 ## Autoría
 
-Desarrollado por **Claudio Bertol** ([@cbertol0](https://github.com/cbertol0))  
+Desarrollado por **Claudio Bertolin** (https://github.com/cbertol0))  
 Instituto del Alimento "Dr. Benjamín Berisso" — Municipalidad de Rosario  
 Junio 2026
 
